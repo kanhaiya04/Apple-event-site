@@ -1,0 +1,86 @@
+ body{
+  font-family: 'Montserrat';
+  line-height: 1.5;
+  text-align: center;
+}
+.text{
+  line-height: 1.5;
+}
+p{
+  text-align: center;
+}
+.title_text{
+  padding: 7%;
+}
+
+.title{
+  padding: 2% 5%;
+  color: white;
+  height: 40rem;
+  background-image: url("../images/title_img.jpg");
+  background-size: cover;
+  background-position:top;
+}
+.desc{
+  padding: 14% 0;
+  text-align: center;
+  margin: auto;
+}
+.img{
+border-radius: 100%;
+  width: 20rem;
+  height: 18rem;
+}
+/* .img_watch{
+  float: right;
+}
+.img_airpod{
+  float: left;
+} */
+.logo{
+  margin: 1rem 2rem;
+  width: 30px;
+  height: 30px;
+}
+
+.nav-link{
+  color: white;
+  padding: 0 1rem 0 1rem;
+  font-size: 1.2rem;
+  font-family: 'Montserrat-light';
+}
+
+/* products */
+
+#products{
+  margin: 6% 0;
+  padding: 0 10%;
+}
+
+/* about */
+#about{
+  font-size: 1.2rem;
+  line-height: 2;
+  background-color: black;
+  color: white;
+  padding: 8% 15%;
+  margin: 6% 0 0 0;
+}
+
+/* venue */
+
+#venue{
+  padding: 8% 0;
+  font-size: 1rem;
+}
+
+/* contact */
+
+#contact{
+  padding: 4% 10%;
+  background-color: black;
+  color: white;
+}
+.footer-icon{
+  padding: 0 2%;
+}
